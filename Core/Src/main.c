@@ -750,7 +750,7 @@ void StartTask02(void *argument)
     ttime.sec = 18;
     ttime.mday = 6;
     ttime.month = 2;
-    ttime.year = 2022;
+    ttime.year = 2023;
     ttime.wday = 6;
 
     rtc_settime(&ttime);
