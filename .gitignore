@@ -1,0 +1,13 @@
+**/*.o
+**/*bin
+**/*launch
+**/*ioc
+**/*bak
+**/*ld
+.settings/
+.cproject
+.mxproject
+.project
+Debug/
+Middlewares/
+Drivers/
